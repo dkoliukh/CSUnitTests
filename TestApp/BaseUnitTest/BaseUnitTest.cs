@@ -23,7 +23,8 @@ namespace Terrasoft.Configuration.EdenLab.UnitTests
 		[SetUp]
 		public virtual void Init()
 		{
-
+			CreateAppConnection();
+			CreateUserConnection();
 		}
 		#endregion
 
