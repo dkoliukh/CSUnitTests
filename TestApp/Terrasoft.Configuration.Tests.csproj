@@ -78,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ActivitySLACalculationStrategyTest.cs" />
+    <Compile Include="BaseUnitTest\BaseUnitTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestAppConnection.cs" />
