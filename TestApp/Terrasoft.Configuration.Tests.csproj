@@ -66,17 +66,14 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="Terrasoft.Common, Version=7.11.3.1715, Culture=neutral, PublicKeyToken=edaadfbc3b0bb879, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\WebApp\DataGroup_SEMSE_7113_ENU\Terrasoft.WebApp\bin\Terrasoft.Common.dll</HintPath>
+    <Reference Include="Terrasoft.Common">
+      <HintPath>..\..\..\WebApp\DataGroup\Terrasoft.WebApp\bin\Terrasoft.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Terrasoft.Configuration, Version=7.11.3.1715, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\WebApp\DataGroup\Terrasoft.WebApp\Terrasoft.Configuration\bin\Terrasoft.Configuration.dll</HintPath>
+    <Reference Include="Terrasoft.Configuration">
+      <HintPath>..\..\..\WebApp\DataGroup\Terrasoft.WebApp\Terrasoft.Configuration\bin\Terrasoft.Configuration.dll</HintPath>
     </Reference>
-    <Reference Include="Terrasoft.Core, Version=7.11.3.1715, Culture=neutral, PublicKeyToken=edaadfbc3b0bb879, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\WebApp\DataGroup_SEMSE_7113_ENU\Terrasoft.WebApp\bin\Terrasoft.Core.dll</HintPath>
+    <Reference Include="Terrasoft.Core">
+      <HintPath>..\..\..\WebApp\DataGroup\Terrasoft.WebApp\bin\Terrasoft.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
