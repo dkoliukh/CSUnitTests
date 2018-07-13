@@ -14,4 +14,5 @@ namespace Terrasoft.Configuration.SLACalculation
 			Console.ReadKey();
 		}
 	}
+
 }
