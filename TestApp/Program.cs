@@ -12,7 +12,6 @@ namespace Terrasoft.Configuration.SLACalculation
 			UserConnection uc = new UserConnection(ac);
 			Console.WriteLine(Type.GetType("Terrasoft.Configuration.SLACalculation.Program").AssemblyQualifiedName);
 			Console.ReadKey();
-			Console.WriteLine(Type.GetType("Terrasoft.Configuration.SLACalculation.Program").AssemblyQualifiedName);
 		}
 	}
 
